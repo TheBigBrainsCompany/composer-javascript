@@ -16,7 +16,7 @@
         "symfony/process": ">=2.0,<3.0"
     },
     "autoload": {
-        "psr-0": { "Tbbc//ComposerJavascript": "src/" }
+        "psr-0": { "Tbbc\\ComposerJavascript": "src/" }
     },
     "branch-alias": {
         "dev-master": "1.0.*-dev"
