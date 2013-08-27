@@ -1,0 +1,24 @@
+{
+    "name": "tbbc/composer-javascript",
+    "description": "Composer script handler for executing `npm install` and `bower install` automatically.",
+    "keywords": ["composer", "bower", "npm", "javascript"],
+    "homepage": "https://github.com/TheBigBrainsCompany/composer-javascript",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Benjamin Dulau",
+            "email": "benjamin.dulau@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "symfony/process": ">=2.0,<3.0"
+    },
+    "autoload": {
+        "psr-0": { "Tbbc//ComposerJavascript": "src/" }
+    },
+    "branch-alias": {
+        "dev-master": "1.0.*-dev"
+    }
+}
