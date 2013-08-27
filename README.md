@@ -26,7 +26,7 @@ Add this lines to your composer.json file:
 }
 ```
 
-You can freely add both or just on of the `npmInstall` or `bowerInstall` scripts.
+You can freely add both or just one of the `npmInstall` or `bowerInstall` scripts.
 
 
 ## Options
