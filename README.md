@@ -45,3 +45,5 @@ Just add the following to your composer.json file:
 ```
 
 `npm-bin-links` default value is `true`.
+
+[![The Big Brains Company - Logo](http://tbbc-valid.thebigbrainscompany.com/assets/images/logo-tbbc.png)](http://thebigbrainscompany.com)
